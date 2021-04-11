@@ -2,8 +2,8 @@
 <html>
     <head>
         <title>Parrot Media : Creative Web Design Services<</title>
-        <link rel="icon" type="image/jpeg" sizes="32x32" href="assets/img/favicon.jpg">
-        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="icon" type="image/jpeg" sizes="32x32" href="/assets/img/favicon.jpg">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
     <link rel="styles2ewd23wed2ewdwedheet" href="https://fonts.googleapis.com/css?family=Cookie">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="assets/css/Map-Clean.css">
     <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
     <link rel="stylesheet" href="assets/css/styles.compiled.css">
+    <link rel="stylesheet" href="assets/fonts/navcss.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
 
