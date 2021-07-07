@@ -1,5 +1,36 @@
-<?php include("nav.inc.php"); ?>
-    <div class="row no-gutters" id="welcomerow">
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parrot Media : Creative Web Design Services</title>
+        <link rel="shortcut icon" type="image/jpeg" sizes="32x32" href="assets/img/favicon.ico">
+        <link rel="stylesheet" href="assets/css/styles.compiled.css">
+       
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="assets/css/Contact-Form-v2-Modal--Full-with-Google-Map.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="assets/css/Map-Clean.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    
+    
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+    </head>
+    <body>
+        <header>
+            <?php include("nav.inc.php"); ?>
+            
+        </header>
+
+        <div class="row no-gutters" id="welcomerow">
         <div class="col" id="welcome">
             <div class="jumbotron" id="welcomebanner">
                 <h1 id="heading">Getting Your Business Online</h1>
@@ -82,4 +113,18 @@
             </div>
         </div>
     </div>
+
+
+
+
+
+
+
+
+<footer>
 <?php include("footer.inc.php"); ?>
+
+</footer>
+
+</body>
+</html>
